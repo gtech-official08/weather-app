@@ -70,17 +70,16 @@ npm run dev -- --host
 
 ![image](https://github.com/user-attachments/assets/b50509cc-bf1b-42af-955e-96c00fee9f1d)
 
-
-
+![image](https://github.com/user-attachments/assets/2c351cd6-6f1d-4faa-81a7-e17ceff19a5d)
 
 
 ## See Demo
 
-Live Demo:- 
+Live Demo:- https://youtu.be/NwXzfkPuamE
 
 
 ### Full Video Tutorial
-Video Link:- 
+Video Link:- https://youtu.be/NwXzfkPuamE
 
 
 ## Author
